@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Rafael
 
-<!--
-**RafaelPalomino18/RafaelPalomino18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Sistemas de Informação** na Uniube  
+💻 Desenvolvedor focado no **Front End**  
+🚀 Sempre aprendendo e buscando evoluir na programação
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias que uso
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## 📊 Estatísticas do GitHub
+
+![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelPalomino18&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelPalomino18&layout=compact&theme=dracula)
+
+## 📫 Contato
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/rafael-alvarenga-050912347)  
+- 📧 rafaelalvarenga321@gmail.com
+
+---
+
+🧠 _"A prática leva à perfeição — codando um pouco todos os dias."_
