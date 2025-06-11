@@ -1,6 +1,6 @@
 <h1 align="left">
   👋 Olá! Eu sou o Rafael
-  <img align="right" src="https://raw.githubusercontent.com/odrgues/odrgues/main/assets/hello-kitty.gif" height="40px" />
+  <img align="right" src="" />
 </h1>
 
 🎓 Estudante de **Sistemas de Informação** na Uniube  
