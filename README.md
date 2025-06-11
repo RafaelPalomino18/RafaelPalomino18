@@ -1,27 +1,48 @@
-# 👋 Olá! Eu sou o Rafael
+<h1 align="left">
+  👋 Olá! Eu sou o Rafael
+  <img align="right" src="https://raw.githubusercontent.com/odrgues/odrgues/main/assets/hello-kitty.gif" height="40px" />
+</h1>
 
 🎓 Estudante de **Sistemas de Informação** na Uniube  
 💻 Desenvolvedor focado no **Front End**  
 🚀 Sempre aprendendo e buscando evoluir na programação
 
-## 🛠️ Tecnologias que uso
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-## 📊 Estatísticas do GitHub
+<br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelPalomino18&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelPalomino18&layout=donut&theme=dracula"/>
+  <img alt="Made by X-design, posted on Pinterest" src="">
 </div>
 
-## 📫 Contato
+<br/>
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/rafael-alvarenga-050912347)  
-- 📧 rafaelalvarenga321@gmail.com
+<div align="center">
+  <a href="https://github.com/RafaelPalomino18">
+    <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=RafaelPalomino18&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+    <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelPalomino18&layout=compact&theme=aura"/>
+  </a>
+</div>
 
----
+<br/>
+<hr/>
 
-🧠 _"A prática leva à perfeição — codando um pouco todos os dias."_
+<div align="center">
+  <img height="180em" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelPalomino18&theme=aura">
+</div>
+
+<br><br/>
+
+<div align="center">
+  <img src="" />
+</div>
+
+<br><br/>
+<hr/>
+
+<div align="center">
+  <h3>Social Media:</h3>
+  <a href="https://www.linkedin.com/in/rafael-alvarenga-050912347">
+    <img height="60em" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg?raw=true" alt="LinkedIn" />
+  </a>
+  <br/><br/>
+  📧 rafaelalvarenga3212@gmail.com
+</div>
