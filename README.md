@@ -1,17 +1,11 @@
 <h1 align="left">
   👋 Olá! Eu sou o Rafael
-  <img align="right" src="" />
+  <img align="right" src="https://github.com/RafaelPalomino18/RafaelPalomino18/blob/main/Assents/BMO.gif?raw=true" height="50px" />
 </h1>
 
 🎓 Estudante de **Sistemas de Informação** na Uniube  
 💻 Desenvolvedor focado no **Front End**  
 🚀 Sempre aprendendo e buscando evoluir na programação
-
-<br/>
-
-<div align="center">
-  <img alt="Made by X-design, posted on Pinterest" src="https://odrgues-images.githubusercontent.com/54647722/172732931-6c1ddfb0-d146-492b-b523-680f3ea408c7.gif">
-</div>
 
 <br/>
 
@@ -29,13 +23,7 @@
   <img height="180em" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelPalomino18&theme=aura">
 </div>
 
-<br><br/>
-
-<div align="center">
-  <img src="" />
-</div>
-
-<br><br/>
+<br/><br/>
 <hr/>
 
 <div align="center">
