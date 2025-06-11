@@ -12,8 +12,10 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelPalomino18&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelPalomino18&layout=compact&theme=dracula)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelPalomino18&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelPalomino18&layout=donut&theme=dracula"/>
+</div>
 
 ## 📫 Contato
 
