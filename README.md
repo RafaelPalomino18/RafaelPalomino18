@@ -37,5 +37,5 @@
     <img height="60em" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg?raw=true" alt="LinkedIn" />
   </a>
   <br/><br/>
-  📧 rafaelalvarenga321@gmail.com
+  📧 rafaalvarenga321@gmail.com
 </div>
