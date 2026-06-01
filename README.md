@@ -6,10 +6,13 @@
   <img src="https://github.com/RafaelPalomino18/RafaelPalomino18/blob/main/Assents/BMO.gif?raw=true" height="100px" alt="BMO" />
 
   <br/><br/>
+🎓 Estudante de Sistemas de Informação na Uniube
 
-  🎓 Estudante de <strong>Sistemas de Informação</strong> na Uniube  
-  💻 Desenvolvedor focado no <strong>Front End</strong>  
-  🚀 Sempre aprendendo e buscando evoluir na programação
+💻 Interessado em Desenvolvimento Web e Programação com Python
+
+📚 Sempre aprendendo novas tecnologias e aprimorando minhas habilidades em desenvolvimento de software
+
+🚀 Construindo projetos e evoluindo constantemente como desenvolvedor
 </div>
 
 <br/><br/>
