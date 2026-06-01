@@ -6,7 +6,7 @@
   <img src="https://github.com/RafaelPalomino18/RafaelPalomino18/blob/main/Assents/BMO.gif?raw=true" height="100px" alt="BMO" />
 
   <br/><br/>
-🎓 Estudante de programação
+💻 Desenvolvedor em Formação
 
 💻 Interessado em Desenvolvimento Web e Programação com Python
 
