@@ -6,13 +6,21 @@
   <img src="https://github.com/RafaelPalomino18/RafaelPalomino18/blob/main/Assents/BMO.gif?raw=true" height="100px" alt="BMO" />
 
   <br/><br/>
-🎓 Desenvolvedor em Formação
+# 🚀 Meu Portfólio
 
-💻 Interessado em Desenvolvimento Web e Programação com Python
+Conheça meu portfólio e alguns dos projetos que desenvolvi:
 
-📚 Sempre aprendendo novas tecnologias e aprimorando minhas habilidades em desenvolvimento de software
+🌐 **Portfólio:** [Acessar Portfólio](COLE_AQUI_O_LINK_DO_PORTFOLIO)
 
-🚀 Construindo projetos e evoluindo constantemente como desenvolvedor
+---
+
+## Sobre Mim
+
+💻 Desenvolvedor de Software em Formação
+
+🌐 Interessado em Desenvolvimento Web e Python
+
+🚀 Sempre aprendendo e buscando evoluir na programação
 </div>
 
 <br/><br/>
